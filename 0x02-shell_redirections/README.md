@@ -1,1 +1,1 @@
-shell Redirections
+shell redirections
